@@ -2,11 +2,11 @@
 ;; .emacs
 ;; Janvier 2015
 
-;; Enlever le buffer de base au lancement
+;; Enlever le buffer de base
 (setq inhibit-startup-message t)
 
 ;; Numero de ligne et de colonnes
-(setq column-number-mode)
+(setq column-number-mode 1)
 
 ;; Personne n'utilise la touche insert
 (global-set-key [insert] 'nil)
