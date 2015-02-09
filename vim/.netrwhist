@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/titouan/Code'
+let g:netrw_dirhist_2='/home/titouan/Desktop'
+let g:netrw_dirhist_3='/home/titouan/Code'
+let g:netrw_dirhist_4='/home/titouan/Desktop'
+let g:netrw_dirhist_5='/home/titouan/Documents'
+let g:netrw_dirhist_6='/home/titouan/Downloads'
+let g:netrw_dirhist_7='/home/titouan/Documents/pourdevrai/test_requetes'
+let g:netrw_dirhist_8='/home/titouan/.vim/autoload/pymode'
