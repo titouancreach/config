@@ -1,0 +1,36 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/titouan/Cloud/Code/" . "PFA/")
+ ("/home/titouan/Cloud/" . "Code/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/titouan/Cloud/Code/PFA/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ObjeLoader.dart"
+ "index.dart"
+ "index.html"
+ "pubspec.yaml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/titouan/" (21720 56175 166068 7000) "communes4g(1).zip" ".zcompdump-titouan-5.0.7" ".dbus/" "main.md" "local/" "4gP_r_s.png" "Desktop/" ".AndroidStudio/" "Templates/" ".rtorrent.rc~" ".wireshark/" ".bash_profile" ".ICEauthority" ".zcompdump" ".thumbnails/" ".#.emacs" ".emacs~" ".folders/" ".android/" ".gimp-2.8/" "Pictures/" ".gradle/" "AndroidStudioProjects/" ".adobe/" ".gnupg/" ".pub-cache/" ".bashrc~" ".config/" "Documents/" "4g_r_s.png" "4g_r_xs.png" "Videos/" "main.md~" ".Skype/" ".cache/" "Firefox_wallpaper.png" ".rtorrent.rc" ".bash_history" ".emacs" "#.emacs#" "Music/" ".mozilla/" ".oh-my-zsh/" "de" ".zshrc.pre-oh-my-zsh" ".bash_logout" ".esd_auth" ".zsh-update" ".npm/" "Cloud/" "Public/" ".zsh_history" "../" ".macromedia/" "Downloads/" ".mono/" ".themes/" ".emacs.d/" "Android/" ".java/" ".zshrc" "communes4g.json" "4g_p_xs.png" ".gitconfig" "4g_p_s.png" ".local/" ".bashrc" "tmp/" "./" ".zshrc~")
+
+ ("/home/titouan/Cloud/Code/PFA/" (21712 46372 908339 539000) "index.js.map" "pubspec.yaml~" "pubspec.lock" "index.js.deps" "pubspec.yaml" "index.html" "index.dart" "../" "index.dart~" "index.html~" "index.js" "./" "packages/")
+
+ ("/home/titouan/Cloud/Code/" (21705 28101 219124 777000) "Chronocube/" "Amazing/" "ocaml/" "ASM/" "header/" "AVM/" "epibot/" "password_generator/" "nibbler-epitech-2017/" "site_jaques/" "design pattern/" "Trade/" "irc/" "kirikou/" "test/" "maths/" "epimach/" "lemipc/" "gomoku/" "Piscine_python/" "ftp/" "Tetris/" "efs++/" "virus/" "CPPLink/" "../" "xorLinkedList/" "neotec/" "CV/" "PFA/" "my_script/" "Java/" "square/" "my_malloc/" "zappy/" "./")
+
+ ("/home/titouan/Cloud/Documents/" (21711 23943 67327 513000) "blender/" "Partitions/" "Tek4/" "Presentation/" "../" "./")
+
+ ("/home/titouan/Cloud/" (21711 23943 363993 429000) "main.c" "Ebook/" "Images/" "Documents/" "Videos/" "Perso/" "Code/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
