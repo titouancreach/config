@@ -2,23 +2,22 @@
 
 # keep old file safe
 
-if [ -e "~/.emacs" ]
+if [ -a "~/.emacs" ]
 then
     mv ~/.emacs ~/.emacs.old
-    echo ".emacs moved to .emacs.old"
 fi
 
-if [ -e "~/.emacs.d" ]
+if [ -a "~/.emacs.d" ]
 then
     mv ~/.emacs.d ~/.emacs.d.old
 fi
 
-if [ -e "~/.vim" ]
+if [ -a "~/.vim" ]
 then
     mv ~/.vim ~/.vim.old
 fi
 
-if [ -e "~/.vimrc" ]
+if [ -a "~/.vimrc" ]
 then
     mv ~/.vimrc ~/.vimrc.old
 fi
